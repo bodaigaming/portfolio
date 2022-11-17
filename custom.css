@@ -22,7 +22,7 @@
 }
 .title h1{
     font-size: 4vw;
-    padding-top: 4vw;
+    padding-top: 1vw;
 }
 .desc{
     margin-left: 30px;
@@ -92,6 +92,7 @@
 }
 .aboutme-img img{
     height: 46.8vw;
+    margin-top: -0.8vw;
 }
 .fa-map-marker-alt img{
     height: 30px;   
